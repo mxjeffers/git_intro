@@ -1,3 +1,5 @@
 Malcolm Jeffers
 jeffersm@oregonstate.edu
-red
+blue
+24
+Kendrick Lamar
